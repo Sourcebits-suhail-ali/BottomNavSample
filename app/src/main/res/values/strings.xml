@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNavigationSample</string>
+    <string name="navigation_live">Live</string>
+    <string name="navigation_featured">Featured</string>
+    <string name="navigation_shop">Shop</string>
+    <string name="navigation_love">Love</string>
+    <string name="navigation_bag">Bag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
