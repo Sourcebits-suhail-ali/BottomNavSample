@@ -53,7 +53,7 @@ var text:String = ""
 
     fun defineClick() {
         tv_page_name.setOnClickListener(View.OnClickListener {
-            navigation.addNewFragment(ShopFragment.newInstance("Shop Live"))
+            navigation.addNewFragment(DummyListFragment.newInstance("Shop Live"))
         })
     }
 
